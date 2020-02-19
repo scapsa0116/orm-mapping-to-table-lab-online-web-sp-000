@@ -42,6 +42,7 @@ def save
    student.save
    student
  end 
+ end 
    
    
  end 
